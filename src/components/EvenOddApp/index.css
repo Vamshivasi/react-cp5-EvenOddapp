@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.bt-container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff, #334155);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.display-heading {
+  color: #334155;
+  font-size: 30px;
+}
+.button {
+  border: 2px solid white;
+  padding: 10px;
+  border-radius: 10px;
+}
